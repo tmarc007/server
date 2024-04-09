@@ -16,7 +16,7 @@ def test():
 #/about
 @app.get("/about")
 def about():
-    return "Thomas Marcello"
+    return "Thomas Marcello!"
 
 
 ####################### API METHODS ############################
